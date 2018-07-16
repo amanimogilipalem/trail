@@ -1,3 +1,9 @@
+commit 1498ba72410d246221fd045acfa7da7f83684458
+Author: amanimogilipalem <mogiliamani96@gmail.com>
+Date:   Fri Jul 13 11:20:13 2018 +0530
+
+    ...gitlogfile...
+
 commit 925d6acfdbf24b7b1aecdfdee9c002aeba6f3a18
 Author: amanimogilipalem <mogiliamani96@gmail.com>
 Date:   Fri Jul 13 10:47:04 2018 +0530

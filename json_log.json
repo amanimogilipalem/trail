@@ -1,0 +1,20 @@
+[
+    {
+        "Date":"   Fri Jul 13 11:20:13 2018 +0530",
+        "commit":"commit 1498ba72410d246221fd045acfa7da7f83684458",
+        "Author:":" amanimogilipalem <mogiliamani96@gmail.com>",
+        "msg":"    ...gitlogfile..."
+    },
+    {
+        "Date":"   Fri Jul 13 10:47:04 2018 +0530",
+        "commit":"commit 925d6acfdbf24b7b1aecdfdee9c002aeba6f3a18",
+        "Author:":" amanimogilipalem <mogiliamani96@gmail.com>",
+        "msg":"    even num"
+    },
+    {
+        "Date":"   Thu Jul 12 17:55:41 2018 +0530",
+        "commit":"commit 39b13cb5116735cf55fdb52aee3821aa4e3bec6a",
+        "Author:":" amanimogilipalem <mogiliamani96@gmail.com>",
+        "msg":"    example program"
+    }
+]
