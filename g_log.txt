@@ -1,8 +1,33 @@
+commit 6fb2fb85f7d01e3618fa2d495b14faee900d01df
+Merge: 4b3bf58 259055d
+Author: amanimogilipalem <mogiliamani96@gmail.com>
+Date:   Mon Jul 16 11:51:12 2018 +0530
+
+    Merge branch 'master' of https://github.com/amanimogilipalem/trail
+
+commit 259055d8e3a5850ec4b73e5c00550dbbe9ffee0f
+Author: amanimogilipalem <mogiliamani96@gmail.com>
+Date:   Mon Jul 16 10:43:13 2018 +0530
+
+    file is deleted
+
+commit 4b3bf58cfb32028a9d28fb9a1668a55c30035e1c
+Author: amanimogilipalem <mogiliamani96@gmail.com>
+Date:   Mon Jul 16 10:40:16 2018 +0530
+
+    ...gitlogfile...
+
 commit e4d4eef7ea0029404d437635ccc03521e532de1b
 Author: amanimogilipalem <mogiliamani96@gmail.com>
 Date:   Mon Jul 16 10:39:53 2018 +0530
 
     ...gitlogfile...
+
+commit 50a561d545adb325e9332057c485ac713512b8af
+Author: amanimogilipalem <mogiliamani96@gmail.com>
+Date:   Mon Jul 16 10:35:21 2018 +0530
+
+    git automation
 
 commit 5e00f315a32314ccb7e58b1863bd924b58820bfc
 Author: amanimogilipalem <mogiliamani96@gmail.com>
