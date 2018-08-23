@@ -6,4 +6,3 @@ for i in str:
         break
 else:
     print("FALSE")
-#example program
