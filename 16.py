@@ -13,3 +13,5 @@ elif diff<0:
     print(-(diff),"seats are free")
 elif diff==0:
     print("busses are sufficient")
+
+#for identifing automatic build in jenkins
